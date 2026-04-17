@@ -88,3 +88,10 @@ L'année du trésorier suit deux cycles superposés : l'**exercice fiscal** (1er
 | Avant le 31 janvier | **RCI** (Report Carrière Intervenants) : récapituler les intervenants rétribués sur l'année civile écoulée. À faire en binôme avec le VT. | [Tutoriel CNJE Kiwi Légal](https://legal.junior-entreprises.com/knowledge-base/declaration-annuelle-des-donnees-sociales-dads/) |
 | Avant le 31 janvier | **DAS2** : récapituler les intervenants rétribués à plus de 2 400 € net et les honoraires versés de plus de 2 400 € TTC sur l'année civile écoulée. À faire en binôme avec le VT. | [Tutoriel CNJE Kiwi Légal](https://legal.junior-entreprises.com/knowledge-base/das2/) |
 | Avant le 15 décembre | **CFE** (Cotisation Foncière des Entreprises) : payer l'avis reçu sur impots.gouv. Montant variable (~0-800 €). | [Kiwi Légal](https://legal.junior-entreprises.com/knowledge-base/cfe/) |
+
+## Documentation des Apps Script
+
+| App Script | Fichier de documentation | Export du script |
+|---|---|---|
+| Tableau de suivi | [Documentation du TS](docs/doc_tableau_de_suivi.md) | [Export du TS](scripts/TS.json) |
+| Sheet de facturation | [Documentation du sheet de facturation](docs/doc_sheet_facturation.md) | [Export du sheet de facturation](scripts/facturation_etude.json) |
