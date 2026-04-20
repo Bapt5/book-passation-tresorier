@@ -10,31 +10,80 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 
 ## Fiches disponibles
 
+### Outil de suivi
+
 | Fiche | Fichier |
 |---|---|
-| Émission de factures clients (études) | [Factures clients](factures_clients.md) |
-| Émission de factures partenaires | [Factures partenaires](factures_partenaires.md) |
-| Refacturation | [Refacturation](refacturation.md) |
-| Notes de frais | [Note de frais](notes_de_frais.md) |
-| Réception et traitement des factures d'achat | [Factures d'achats](factures_achat.md) |
-| Émission des bulletins de versement (BV) | [Bulletin de versement](bulletins_de_versement.md) |
-| Suivi des créances et procédure de relance | [Suivi des créances](suivi_creances.md) |
-| Signature de l'ERB | [ERB](erb.md) |
-| Déclaration BRC | [BRC](brc.md) |
-| Déclaration TVA | [TVA](tva.md) |
 | Suivi et réactualisation du budget | [Budget](budget.md) |
-| Versement d'une subvention à une association | [Subvention asso](subvention_asso.md) |
-| Réception d'un chèque | [Chèque reçu](cheque_reception.md) |
-| Emission d'un chèque | [Chèque émis](cheque_emission.md) |
+| Signature de l'ERB | [ERB](erb.md) |
+| Suivi des créances et procédure de relance | [Suivi des créances](suivi_creances.md) |
+
+### Social
+
+| Fiche | Fichier |
+|---|---|
+| Emission des bulletins de versement (BV) | [Bulletin de versement](bulletins_de_versement.md) |
+| Déclaration BRC | [BRC](brc.md) |
 | Rectification d'un bulletin de versement | [BV rectificatif](bv_rectificatif.md) |
-| Modification ou annulation d'une facture émise | [Factures rectification](factures_rectification.md) |
-| Rectification d'une note de frais | [NDF rectificative](ndf_rectificative.md) |
-| Rectification d'une déclaration de TVA | [TVA rectification](tva_rectification.md) |
 | Rectification d'un BRC | [BRC rectification](brc_rectification.md) |
+
+### Fiscal
+
+| Fiche | Fichier |
+|---|---|
+| Déclaration TVA | [TVA](tva.md) |
+| Rectification d'une déclaration de TVA | [TVA rectification](tva_rectification.md) |
+
+### Ventes
+
+| Fiche | Fichier |
+|---|---|
+| Emission de factures clients (études) | [Factures clients](factures_clients.md) |
+| Emission de factures partenaires | [Factures partenaires](factures_partenaires.md) |
+| Refacturation | [Refacturation](refacturation.md) |
+| Modification ou annulation d'une facture émise | [Factures rectification](factures_rectification.md) |
+| Réception d'un chèque | [Chèque reçu](cheque_reception.md) |
+
+### Achat
+
+| Fiche | Fichier |
+|---|---|
+| Réception et traitement des factures d'achat | [Factures d'achats](factures_achat.md) |
+| Notes de frais | [Note de frais](notes_de_frais.md) |
+| Rectification d'une note de frais | [NDF rectificative](ndf_rectificative.md) |
+| Versement d'une subvention à une association | [Subvention asso](subvention_asso.md) |
+| Emission d'un chèque | [Chèque émis](cheque_emission.md) |
 
 ## Index par déclencheur
 
-### Déclencheurs liés au cycle d'une étude
+### Outil de suivi
+
+| Déclencheur | Fiche à suivre |
+|---|---|
+| Réception de l'ERB mensuel | [ERB](erb.md) — signer sur YouSign |
+| Présentation du réalisé budgétaire en CA | [Budget](budget.md) |
+| Réactualisation budgétaire nécessaire | [Budget](budget.md) |
+| Échéance dépassée sur une facture client | [Suivi des créances](suivi_creances.md) — déclencher la relance |
+| Échéance dépassée sur une facture partenaire | [Suivi des créances](suivi_creances.md) — relance partenaires |
+
+### Social
+
+| Déclencheur | Fiche à suivre |
+|---|---|
+| Encaissement d'un paiement client | [Bulletin de versement](bulletins_de_versement.md) — émettre les BV |
+| Avant le 15 du mois | [BRC](brc.md) — déclarer les cotisations du mois précédent |
+| Erreur détectée sur un BV déjà émis (montant, JEH) | [BV rectificatif](bv_rectificatif.md) |
+| Erreur sur le numéro de sécurité sociale d'un intervenant | [BV rectificatif](bv_rectificatif.md) — BV "annule et remplace" uniquement |
+| Erreur sur un BRC déjà soumis | [BRC rectification](brc_rectification.md) |
+
+### Fiscal
+
+| Déclencheur | Fiche à suivre |
+|---|---|
+| Avant le 24 du mois | [TVA](tva.md) — déclarer la TVA du mois précédent |
+| Erreur sur une déclaration de TVA passée | [TVA rectification](tva_rectification.md) |
+
+### Ventes
 
 | Déclencheur | Fiche à suivre |
 |---|---|
@@ -42,38 +91,21 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Signature de la CE ou du BC | [Factures clients](factures_clients.md) — émettre la facture d'acompte |
 | Signature du PVRI | [Factures clients](factures_clients.md) — émettre la facture intermédiaire |
 | Signature du PVRF | [Factures clients](factures_clients.md) — émettre la facture de solde |
-| Encaissement d'un paiement client | [Bulletin de versement](bulletins_de_versement.md) — émettre les BV |
-| Réception d'un chèque d'un tiers | [Chèque reçu](cheque_reception.md) — déposer et archiver |
-| Échéance dépassée sur une facture client | [Suivi des créances](suivi_creances.md) — déclencher la relance |
-
-### Déclencheurs liés aux partenaires
-
-| Déclencheur | Fiche à suivre |
-|---|---|
 | Demande d'émission d'une facture par le responsable partenariat | [Factures partenaires](factures_partenaires.md) |
-| Échéance dépassée sur une facture partenaire | [Suivi des créances](suivi_creances.md) — relance partenaires |
-| Décision de subvention à une asso votée en CA | [Subvention asso](subvention_asso.md) |
+| Détection d'une dépense avancée par Telecom Etude à refacturer | [Refacturation](refacturation.md) |
+| Erreur ou modification sur une facture émise | [Factures rectification](factures_rectification.md) |
+| Remise accordée après émission d'une facture | [Factures rectification](factures_rectification.md) — facture d'avoir RRR |
+| Réception d'un chèque d'un tiers | [Chèque reçu](cheque_reception.md) — déposer et archiver |
 
-### Déclencheurs liés aux achats et remboursements
+### Achat
 
 | Déclencheur | Fiche à suivre |
 |---|---|
 | Réception d'une facture fournisseur (mail, plateforme, achat direct) | [Factures d'achats](factures_achat.md) |
-| Fournisseur n'acceptant ni carte ni virement | [Chèque émis](cheque_emission.md) — paiement en dernier recours |
 | Soumission d'un Google Form NDF par un membre | [Note de frais](notes_de_frais.md) |
-| Détection d'une dépense avancée par Telecom Etude à refacturer | [Refacturation](refacturation.md) |
-
-### Rectifications
-
-| Déclencheur | Fiche à suivre |
-|---|---|
-| Erreur détectée sur un BV déjà émis (montant, JEH) | [BV rectificatif](bv_rectificatif.md) |
-| Erreur sur le numéro de sécurité sociale d'un intervenant | [BV rectificatif](bv_rectificatif.md) — BV "annule et remplace" uniquement |
-| Erreur ou modification sur une facture émise | [Factures rectification](factures_rectification.md) |
-| Remise accordée après émission d'une facture | [Factures rectification](factures_rectification.md) — facture d'avoir RRR |
 | Erreur sur une note de frais déjà émise | [NDF rectificative](ndf_rectificative.md) |
-| Erreur sur une déclaration de TVA passée | [TVA rectification](tva_rectification.md) |
-| Erreur sur un BRC déjà soumis | [BRC rectification](brc_rectification.md) |
+| Décision de subvention à une asso votée en CA | [Subvention asso](subvention_asso.md) |
+| Fournisseur n'acceptant ni carte ni virement | [Chèque émis](cheque_emission.md) — paiement en dernier recours |
 
 ## Calendrier mensuel
 
@@ -121,4 +153,4 @@ L'année du trésorier suit deux cycles superposés : l'**exercice fiscal** (1er
 | App Script | Fichier de documentation | Export du script |
 |---|---|---|
 | Tableau de suivi | [Documentation du TS](docs/doc_tableau_de_suivi.md) | [Export du TS](scripts/TS.json) |
-| Sheet de facturation | [Documentation du sheet de factura
+| Sheet de facturation | [Documentation du sheet de facturation](docs/doc_sheet_facturation.md) | [Export du sheet de facturation](scripts/sheet_facturation.json) |
