@@ -2,6 +2,12 @@
 
 Ce document est le point d'entrée du dossier de passation. Il recense toutes les fiches disponibles, les organise par déclencheur, et présente les calendriers mensuel et annuel du trésorier.
 
+## Référence rapide
+
+| Ressource | Fichier |
+|---|---|
+| Nomenclatures de fichiers | [Nomenclatures](nomenclatures.md) |
+
 ## Fiches disponibles
 
 | Fiche | Fichier |
