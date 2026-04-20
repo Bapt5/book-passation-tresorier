@@ -151,7 +151,7 @@ Si la TVA déductible dépasse la TVA collectée sur un mois, le résultat de la
 
 ## En cas d'erreur sur une déclaration passée
 
-Une erreur sur une déclaration TVA passée se régularise via la déclaration du mois suivant : corriger les montants en tenant compte de l'écart. En cas de doute sur la marche à suivre, contacter le pôle Conseil de la CNJE.
+Une erreur sur une déclaration TVA passée se régularise via la déclaration du mois suivant, sans dépôt d'une déclaration rectificative séparée. La procédure détaillée selon le type d'erreur (trop de déductible, oubli de collectée, etc.) est disponible dans la fiche dédiée : [tva_rectification.md](tva_rectification.md).
 
 ## Points d'attention et pièges fréquents
 
@@ -162,3 +162,4 @@ Une erreur sur une déclaration TVA passée se régularise via la déclaration d
 - **La TVA déductible suit la date de la facture d'achat**, pas la date de paiement.
 - **Vérifier les cas de non-déductibilité** (transports, hébergements, alcool) avant de saisir la case 20. Une TVA non déductible saisie à tort est une erreur comptable.
 - **Conserver les déclarations archivées** : elles servent de référence pour les contrôles fiscaux et pour le report de crédit d'un mois sur l'autre.
+- **En cas d'erreur sur une déclaration passée** : suivre la procédure de rectification dédiée — [tva_rectification.md](tva_rectification.md).

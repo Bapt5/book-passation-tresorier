@@ -122,7 +122,7 @@ Certaines lignes apparaissent parfois dans le déclaratif URSSAF mais ne s'appli
 
 ## En cas d'erreur sur un BRC passé
 
-Les erreurs sur un BRC sont régularisées via le **Tableau Récapitulatif (TR)** de fin d'année, pas via un BRC correctif. Ne pas chercher à corriger un BRC déjà soumis : noter l'erreur et le corriger lors du TR. En cas de doute, contacter le pôle Conseil de la CNJE.
+Un BRC déjà soumis ne se corrige pas. La marche à suivre dépend de la nature de l'erreur (effectif ou montant) : voir la fiche dédiée [brc_rectification.md](brc_rectification.md).
 
 ## Points d'attention et pièges fréquents
 
@@ -132,4 +132,5 @@ Les erreurs sur un BRC sont régularisées via le **Tableau Récapitulatif (TR)*
 - **Arrondir à l'unité**, jamais de centimes dans un BRC.
 - **Un intervenant avec plusieurs BV sur le même mois ne compte que pour 1** dans l'effectif rétribué.
 - **Ne pas toucher aux lignes 772D et 937D** (chômage/AGS) : elles ne s'appliquent pas aux JE.
-- **Conserver le sheet BRC et le déclaratifs archivés** : ils servent de référence pour le TR en fin d'année civile.
+- **Conserver le sheet BRC et les déclaratifs archivés** : ils servent de référence pour le TR en fin d'année civile.
+- **En cas d'erreur sur un BRC déjà soumis** : suivre la procédure de rectification dédiée — [brc_rectification.md](brc_rectification.md).

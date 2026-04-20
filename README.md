@@ -29,6 +29,8 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Rectification d'un bulletin de versement | [BV rectificatif](bv_rectificatif.md) |
 | Modification ou annulation d'une facture émise | [Factures rectification](factures_rectification.md) |
 | Rectification d'une note de frais | [NDF rectificative](ndf_rectificative.md) |
+| Rectification d'une déclaration de TVA | [TVA rectification](tva_rectification.md) |
+| Rectification d'un BRC | [BRC rectification](brc_rectification.md) |
 
 ## Index par déclencheur
 
@@ -70,6 +72,8 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Erreur ou modification sur une facture émise | [Factures rectification](factures_rectification.md) |
 | Remise accordée après émission d'une facture | [Factures rectification](factures_rectification.md) — facture d'avoir RRR |
 | Erreur sur une note de frais déjà émise | [NDF rectificative](ndf_rectificative.md) |
+| Erreur sur une déclaration de TVA passée | [TVA rectification](tva_rectification.md) |
+| Erreur sur un BRC déjà soumis | [BRC rectification](brc_rectification.md) |
 
 ## Calendrier mensuel
 
