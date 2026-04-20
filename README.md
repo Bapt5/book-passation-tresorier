@@ -18,6 +18,8 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Déclaration TVA | [TVA](tva.md) |
 | Suivi et réactualisation du budget | [Budget](budget.md) |
 | Versement d'une subvention à une association | [Subvention asso](subvention_asso.md) |
+| Réception d'un chèque | [Chèque reçu](cheque_reception.md) |
+| Emission d'un chèque | [Chèque émis](cheque_emission.md) |
 
 ## Index par déclencheur
 
@@ -30,6 +32,7 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Signature du PVRI | [Factures clients](factures_clients.md) — émettre la facture intermédiaire |
 | Signature du PVRF | [Factures clients](factures_clients.md) — émettre la facture de solde |
 | Encaissement d'un paiement client | [Bulletin de versement](bulletins_de_versement.md) — émettre les BV |
+| Réception d'un chèque d'un tiers | [Chèque reçu](cheque_reception.md) — déposer et archiver |
 | Échéance dépassée sur une facture client | [Suivi des créances](suivi_creances.md) — déclencher la relance |
 
 ### Déclencheurs liés aux partenaires
@@ -45,6 +48,7 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Déclencheur | Fiche à suivre |
 |---|---|
 | Réception d'une facture fournisseur (mail, plateforme, achat direct) | [Factures d'achats](factures_achat.md) |
+| Fournisseur n'acceptant ni carte ni virement | [Chèque émis](cheque_emission.md) — paiement en dernier recours |
 | Soumission d'un Google Form NDF par un membre | [Note de frais](notes_de_frais.md) |
 | Détection d'une dépense avancée par Telecom Etude à refacturer | [Refacturation](refacturation.md) |
 
