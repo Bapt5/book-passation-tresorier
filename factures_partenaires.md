@@ -107,4 +107,5 @@ Le VT la range ensuite dans le dossier du mois d'émission.
 - **Ne pas oublier la TVA à 20 %** : les subventions partenaires sont des prestations commerciales, pas des dons. La TVA est obligatoire.
 - **Le délai de paiement est de 60 jours**, pas 30 : ne pas paramétrer la mauvaise date d'échéance dans la facture.
 - **Toujours être en copie de l'envoi** pour assurer le suivi de réception.
-- **Surveiller les créances partenaires** comme les créances études : elles n'ont pas moins d'importance. 
+- **Surveiller les créances partenaires** comme les créances études : elles n'ont pas moins d'importance.
+- **En cas d'erreur sur une facture déjà émise** : suivre la procédure de rectification dédiée — [factures_rectification.md](factures_rectification.md).

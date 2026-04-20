@@ -158,3 +158,4 @@ Le VT la range ensuite dans le dossier du mois d'émission.
 - **Toujours être en copie de l'envoi** pour assurer le suivi de réception.
 - **Surveiller les créances activement** : ne pas attendre que le CdP signale un retard, c'est le trésorier qui pilote.
 - Pour les **avoirs et les factures clients étrangers** : ne pas improviser, consulter Kiwi Légal ou contacter la CNJE.
+- **En cas d'erreur sur une facture déjà émise** : suivre la procédure de rectification dédiée — [factures_rectification.md](factures_rectification.md).
