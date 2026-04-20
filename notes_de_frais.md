@@ -157,3 +157,4 @@ Le VT la range ensuite dans le dossier du mois d'émission.
 - **Ne jamais rembourser sans NDF signée** : le virement intervient après la signature complète, pas avant.
 - **Surveiller les signataires** : appliquer scrupuleusement la procédure de surveillance dès que le bénéficiaire est président ou trésorier.
 - **La TVA est déductible** uniquement si la facture est au nom de Telecom Etude avec le détail des taux. Sans ça, pas de déduction possible.
+- **En cas d'erreur sur une NDF déjà émise** : suivre la procédure de rectification dédiée — [ndf_rectificative.md](ndf_rectificative.md).

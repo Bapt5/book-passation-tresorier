@@ -28,6 +28,7 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Emission d'un chèque | [Chèque émis](cheque_emission.md) |
 | Rectification d'un bulletin de versement | [BV rectificatif](bv_rectificatif.md) |
 | Modification ou annulation d'une facture émise | [Factures rectification](factures_rectification.md) |
+| Rectification d'une note de frais | [NDF rectificative](ndf_rectificative.md) |
 
 ## Index par déclencheur
 
@@ -68,6 +69,7 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Erreur sur le numéro de sécurité sociale d'un intervenant | [BV rectificatif](bv_rectificatif.md) — BV "annule et remplace" uniquement |
 | Erreur ou modification sur une facture émise | [Factures rectification](factures_rectification.md) |
 | Remise accordée après émission d'une facture | [Factures rectification](factures_rectification.md) — facture d'avoir RRR |
+| Erreur sur une note de frais déjà émise | [NDF rectificative](ndf_rectificative.md) |
 
 ## Calendrier mensuel
 
