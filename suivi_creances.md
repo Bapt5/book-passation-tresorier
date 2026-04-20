@@ -18,6 +18,8 @@ Le délai de référence est **J = date d'échéance de la facture** (pas la dat
 
 - TS (Google Sheets) : onglet `Factures ventes`, qui calcule automatiquement le nombre de jours depuis l'émission et depuis l'échéance
 
+> Logigramme : [logigramme_suivi_creances.md](logigrammes/logigramme_suivi_creances.md)
+
 ## Suivi quotidien des créances
 
 L'onglet `Factures ventes` du TS centralise toutes les factures émises. Pour chaque facture non encore encaissée, le TS calcule automatiquement le nombre de jours écoulés depuis l'émission et depuis l'échéance.

@@ -23,6 +23,8 @@ La TVA est le taux de la dépense avancé, se référer au justificatif. En gén
 - TS (Google Sheets) : onglet `Factures ventes`
 - Template Google Docs refacturation : Drive Trésorerie > Template GDocs > Template refacturation
 
+> Logigramme : [logigramme_refacturation.md](logigrammes/logigramme_refacturation.md)
+
 ## Cas typiques
 
 **Places de congrès CNJE**

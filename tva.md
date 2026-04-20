@@ -23,6 +23,8 @@ La TVA (Taxe sur la Valeur Ajoutée) est un impôt indirect collecté par Teleco
 - Drive Trésorerie > Déclaratifs > TVA > Mandat 202X-202Y > AAAA-MM : archivage
 - impots.gouv.fr : dépôt de la déclaration
 
+> Logigramme : [logigramme_tva.md](logigrammes/logigramme_tva.md)
+
 ## Principe de la TVA sur les encaissements
 
 Telecom Etude applique le principe de la **TVA sur les encaissements** : la TVA collectée n'est pas exigible à la date de facturation, mais **le jour où l'argent est reçu sur le compte**. C'est ce qui est déclaré chaque mois.
@@ -161,5 +163,4 @@ Une erreur sur une déclaration TVA passée se régularise via la déclaration d
 - **TVA sur les encaissements, pas sur les factures.** Une facture émise mais non encore payée en M-1 n'entre pas dans la TVA collectée de M-1. Elle entre dans la déclaration du mois où le virement est reçu.
 - **La TVA déductible suit la date de la facture d'achat**, pas la date de paiement.
 - **Vérifier les cas de non-déductibilité** (transports, hébergements, alcool) avant de saisir la case 20. Une TVA non déductible saisie à tort est une erreur comptable.
-- **Conserver les déclarations archivées** : elles servent de référence pour les contrôles fiscaux et pour le report de crédit d'un mois sur l'autre.
-- **En cas d'erreur sur une déclaration passée** : suivre la procédure de rectification dédiée — [tva_rectification.md](tva_rectification.md).
+- **Conserver les déclarations archivées** : elles servent de référence pour les contrôles fiscaux et pour le report de crédit d'un mois

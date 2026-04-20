@@ -16,6 +16,8 @@ L'émission de chèque est un moyen de paiement de dernier recours, utilisé uni
 - TS (Google Sheets) : mise à jour du suivi
 - Google Drive : archivage (Drive Trésorerie > Chèques > Mandat 202X-202Y > Emis)
 
+> Logigramme : [logigramme_cheque_emission.md](logigrammes/logigramme_cheque_emission.md)
+
 ## Procédure pas à pas
 
 ### Etape 1 - Vérifier les conditions préalables
@@ -77,5 +79,4 @@ Informer le VT et lui transmettre les pièces archivées (facture + photos chèq
 - **Seul le trésorier peut signer.** Aucun autre membre n'est habilité à signer un chèque de Telecom Etude.
 - **Photographier avant de remettre.** Une fois le chèque donné, il n'est plus disponible pour archivage.
 - **Photographier aussi le talon.** Le talon du carnet est la seule trace physique restante une fois le chèque remis.
-- **La date à saisir dans le TS est la date comptable du relevé bancaire**, pas la date d'émission ni de remise. Elle est disponible dans l'interface BNP une fois le chèque encaissé par le bénéficiaire.
-- **Les conditions de validation s'appliquent comme pour tout achat.** Ne pas contourner la procédure sous prétexte que le moyen de paiement est différent.
+- **La date à saisir dans le TS est la date comptable du relevé bancaire**, pas la date d'émission ni de remise. Elle est disponible dans l'interfa

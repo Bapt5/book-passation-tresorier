@@ -19,6 +19,8 @@ C'est le **VT qui produit l'ERB** depuis Loop à partir du relevé bancaire du m
 - YouSign : signature électronique de l'ERB
 - TS (Google Sheets) : onglet `Déclaratifs mensuels`, suivi de la validation mensuelle
 
+> Logigramme : [logigramme_erb.md](logigrammes/logigramme_erb.md)
+
 ## Procédure pas à pas
 
 ### Etape 1 - Réception de l'ERB sur YouSign

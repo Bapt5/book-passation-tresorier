@@ -12,6 +12,8 @@ Un BV erroné ne peut pas être simplement corrigé ou supprimé : il doit faire
 - VT : comptabilise les écritures inverses et le BV rectificatif, archive
 - Intervenant : informé de la rectification, rembourse ou reçoit le différentiel selon le cas
 
+> Logigramme : [logigramme_bv_rectificatif.md](logigrammes/logigramme_bv_rectificatif.md)
+
 ## Identifier la nature de l'erreur
 
 Avant toute chose, déterminer ce qui est erroné :
@@ -77,4 +79,4 @@ Les cotisations sociales déclarées dans le BRC sont basées sur les BV émis. 
 - **Ne pas déclarer le BV rectificatif au BRC si le BV initial a déjà été déclaré.** La régularisation se fait au TR, pas en redéclarant un BRC corrigé.
 - **Si le BV initial est de l'année civile précédente**, le TR est clôturé : un TR rectificatif est alors indispensable. Ne pas ignorer ce point : une erreur de cotisations non régularisée peut entraîner des pénalités URSSAF.
 - **Documenter le lien entre le BV erroné et le BV rectificatif** dans le TS et dans les noms de fichiers archivés, pour que le VT puisse retrouver le contexte facilement.
-- **Les petits différentiels peuvent être passés en perte ou en gain**, mais cette décision doit être explicite et documentée — ne pas simplement ignorer l'écart.
+- **Les petits différentiels peuvent être passés en perte ou en gain**, mais cette décision doit être explicite et 

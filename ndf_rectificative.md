@@ -13,6 +13,8 @@ Toute erreur sur une note de frais déjà émise, qu'elle porte sur un montant o
 - Président / VPI : cosignataires de la NDF rectificative (mêmes règles de surveillance des signataires que pour une NDF classique)
 - VT : comptabilise les écritures correctives, archive
 
+> Logigramme : [logigramme_ndf_rectificative.md](logigrammes/logigramme_ndf_rectificative.md)
+
 ## Procédure pas à pas
 
 ### Etape 1 - Emettre la NDF "annule et remplace"
@@ -53,4 +55,4 @@ Le VT comptabilise la NDF rectificative et les éventuelles écritures de régul
 - **Les mêmes règles de surveillance des signataires s'appliquent** à la NDF rectificative qu'à la NDF initiale. Ne pas les contourner sous prétexte que c'est une correction.
 - **Le compte du membre est le 4681**, à ne pas confondre avec le 468 utilisé pour les intervenants (BV).
 - **Ne pas oublier de virer ou récupérer la différence** si l'erreur porte sur un montant. Même petite, une différence doit être traitée explicitement — soit régularisée, soit passée en perte/gain avec les bonnes écritures.
-- **Archiver les deux NDF ensemble** (initiale et rectificative) pour que le VT puisse reconstituer l'historique facilement.
+- **Archiver les deux NDF ensemble** (initiale et rectificative) pour que le VT 

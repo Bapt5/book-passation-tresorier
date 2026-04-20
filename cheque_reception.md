@@ -15,6 +15,8 @@ La réception de chèques est rare à Telecom Etude. Lorsqu'un tiers (client, pa
 - TS (Google Sheets) : mise à jour du suivi
 - Google Drive : archivage (Drive Trésorerie > Chèques > Mandat 202X-202Y > Reçus)
 
+> Logigramme : [logigramme_cheque_reception.md](logigrammes/logigramme_cheque_reception.md)
+
 ## Procédure pas à pas
 
 ### Etape 1 - Réceptionner le chèque
@@ -59,4 +61,4 @@ Informer le VT du dépôt et lui transmettre les pièces archivées pour comptab
 - **La date à saisir dans le TS est la date comptable du relevé bancaire**, pas la date de réception ni la date de dépôt. Elle est disponible dans l'interface BNP quelques jours après le dépôt.
 - **Photographier le chèque avant de le déposer.** Une fois remis en agence, il n'est plus récupérable.
 - **Vérifier que le chèque est à l'ordre de Telecom Etude.** Un chèque libellé à un autre nom ne peut pas être déposé sur le compte.
-- **Ne pas tarder à déposer.** Un chèque a une durée de validité d'un an. Au-delà, il ne peut plus être encaissé.
+- **Ne pas 

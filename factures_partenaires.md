@@ -16,6 +16,8 @@ Les factures partenaires sont des factures de vente hors études, émises dans l
 - TS (Google Sheets) : onglet `Factures ventes`
 - Template Google Docs facture subvention : Drive Trésorerie > Template GDocs
 
+> Logigramme : [logigramme_factures_partenaires.md](logigrammes/logigramme_factures_partenaires.md)
+
 ## Nomenclature
 
 ```

@@ -24,6 +24,8 @@ Une note de frais permet à un membre de Telecom Etude de se faire rembourser un
 - YouSign : signature électronique de la NDF
 - TS (Google Sheets) : mise à jour par le VT
 
+> Logigramme : [logigramme_notes_de_frais.md](logigrammes/logigramme_notes_de_frais.md)
+
 ## Nomenclature
 
 ```

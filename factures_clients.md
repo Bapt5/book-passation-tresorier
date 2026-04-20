@@ -18,6 +18,8 @@ L'émission de factures clients est l'une des tâches les plus visibles du trés
 - Sheet de facturation de l'étude : généré automatiquement dans le TS à la création de l'étude, à compléter manuellement
 - Modèle Google Docs de facture : s'auto-complète depuis le sheet de facturation
 
+> Logigramme : [logigramme_factures_clients.md](logigrammes/logigramme_factures_clients.md)
+
 ## Types de factures
 
 | Type | Déclencheur | Particularité |

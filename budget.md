@@ -20,6 +20,8 @@ Le rôle du trésorier sur le budget se décompose en deux activités distinctes
 
 - TS (Google Sheets) : onglet `Budget`, alimenté automatiquement en temps réel par les autres onglets (`Factures ventes`, `BV & RM`, etc.)
 
+> Logigramme : [logigramme_budget.md](logigrammes/logigramme_budget.md)
+
 ## Suivi mensuel
 
 ### Principe

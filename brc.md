@@ -23,6 +23,8 @@ Si aucun BV n'a été émis sur le mois, **une déclaration à zéro** doit quan
 - Drive Trésorerie > Déclaratifs > BRC + TR > Mandat 202X-202Y > AAAA-MM : archivage
 - Site URSSAF : dépôt de la déclaration
 
+> Logigramme : [logigramme_brc.md](logigrammes/logigramme_brc.md)
+
 ## Procédure pas à pas
 
 ### Etape 1 - Générer le sheet BRC via l'AppScript

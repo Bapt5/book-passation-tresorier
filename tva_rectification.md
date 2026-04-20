@@ -11,6 +11,8 @@ Une erreur sur une déclaration de TVA passée ne donne pas lieu à une déclara
 - Trésorier : identifie l'erreur, prépare la correction dans la déclaration suivante
 - VT : vérifie les comptes de TVA (44566, 44571, 44577), double contrôle avant dépôt
 
+> Logigramme : [logigramme_tva_rectification.md](logigrammes/logigramme_tva_rectification.md)
+
 ## Identifier le type d'erreur
 
 | Type d'erreur | Ligne à remplir sur la prochaine déclaration |
@@ -66,4 +68,4 @@ Exemple de formulation : "Régularisation d'une TVA déductible omise sur la dé
 - **Toujours remplir le champ correspondance.** Un écart inexpliqué sur une déclaration peut poser problème lors d'un contrôle fiscal. Même si la correction est mineure, expliquer le contexte prend moins d'une minute et peut éviter des complications.
 - **Croiser avec le VT** avant de déposer la déclaration corrective : les comptes 44566, 44571 et 44577 doivent refléter la correction.
 - **Ne pas attendre plusieurs mois** pour régulariser une erreur identifiée. Plus le délai est long, plus la justification est difficile à reconstituer.
-- **Cas c et b partagent la même ligne (21)** : vérifier que le sens de la correction est bien pris en compte dans le calcul de la TVA nette due (case 28).
+- **Cas c et b partagent la même ligne (21)** : vérifier que le sens de la correction est bien pris en compte dans le calcu

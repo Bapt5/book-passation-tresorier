@@ -17,6 +17,8 @@ Les factures d'achat correspondent à toutes les dépenses engagées par Telecom
 - TS (Google Sheets) : mise à jour du suivi
 - Google Drive : archivage (Drive Trésorerie > Achats-NDF > Achats 202X-202Y)
 
+> Logigramme : [logigramme_factures_achat.md](logigrammes/logigramme_factures_achat.md)
+
 ## Sources des factures d'achat
 
 Les factures arrivent par trois canaux distincts.
