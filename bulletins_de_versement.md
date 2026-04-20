@@ -162,3 +162,4 @@ Le VT le range ensuite dans le dossier du mois d'émission.
 - **La numérotation XXX repart au 1er janvier**, pas au 1er mai comme les factures. Ne pas mélanger les deux conventions.
 - **Les charges sociales ne sont pas virées à l'intervenant** : elles sont calculées dans le TS et payées à l'URSSAF via la déclaration BRC mensuelle. La rétribution versée à l'intervenant est le montant **net**.
 - **Si le trésorier est intervenant** : ne pas gérer son propre BV. Passer la main au VT pour l'émission et au président pour le virement.
+- **En cas d'erreur sur un BV déjà émis** : ne pas corriger le BV directement. Suivre la procédure de rectification dédiée : [bv_rectificatif.md](bv_rectificatif.md).

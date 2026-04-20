@@ -26,6 +26,7 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Versement d'une subvention à une association | [Subvention asso](subvention_asso.md) |
 | Réception d'un chèque | [Chèque reçu](cheque_reception.md) |
 | Emission d'un chèque | [Chèque émis](cheque_emission.md) |
+| Rectification d'un bulletin de versement | [BV rectificatif](bv_rectificatif.md) |
 
 ## Index par déclencheur
 
@@ -57,6 +58,13 @@ Ce document est le point d'entrée du dossier de passation. Il recense toutes le
 | Fournisseur n'acceptant ni carte ni virement | [Chèque émis](cheque_emission.md) — paiement en dernier recours |
 | Soumission d'un Google Form NDF par un membre | [Note de frais](notes_de_frais.md) |
 | Détection d'une dépense avancée par Telecom Etude à refacturer | [Refacturation](refacturation.md) |
+
+### Rectifications
+
+| Déclencheur | Fiche à suivre |
+|---|---|
+| Erreur détectée sur un BV déjà émis (montant, JEH) | [BV rectificatif](bv_rectificatif.md) |
+| Erreur sur le numéro de sécurité sociale d'un intervenant | [BV rectificatif](bv_rectificatif.md) — BV "annule et remplace" uniquement |
 
 ## Calendrier mensuel
 
@@ -104,4 +112,4 @@ L'année du trésorier suit deux cycles superposés : l'**exercice fiscal** (1er
 | App Script | Fichier de documentation | Export du script |
 |---|---|---|
 | Tableau de suivi | [Documentation du TS](docs/doc_tableau_de_suivi.md) | [Export du TS](scripts/TS.json) |
-| Sheet de facturation | [Documentation du sheet de facturation](docs/doc_sheet_facturation.md) | [Export du sheet de facturation](scripts/facturation_etude.json) |
+| Sheet de facturation | [Documentation du sheet de factura
