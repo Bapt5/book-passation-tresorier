@@ -20,7 +20,7 @@ Trois conditions doivent être réunies avant tout versement :
 
 1. La subvention est **inscrite au budget** adopté ou réactualisé
 2. Elle a été **approuvée par un vote explicite du CA**
-3. L'association bénéficiaire est une **association loi 1901 de Télécom Paris** et la subvention est **en lien avec l'objet social de Telecom Etude** (ex : promouvoir la JE, financer un événement auquel Telecom Etude est associée...)
+3. L'association bénéficiaire est une **association loi 1901 de Télécom Paris** et la subvention est **strictement en lien avec l'objet social de Telecom Etude**. En pratique, la contrepartie doit le plus souvent prendre la forme d'une **visibilité pour Telecom Etude** (logo, mention, évènement, défi, communication sur les groupes WhatsApp) ou d'une **promotion des enseignements de l'école** (évènement, étude de cas, hackaton). Une subvention sans contrepartie claire et rattachable à l'objet social ne peut pas être versée.
 
 ## Procédure pas à pas
 
@@ -35,12 +35,13 @@ Si l'une de ces conditions n'est pas remplie, ne pas procéder. Si la subvention
 ### Etape 2 - Rédiger la convention de partenariat
 
 La convention est rédigée par Telecom Etude. Elle doit préciser a minima :
-- Les parties (Telecom Etude et l'association bénéficiaire)
-- L'objet et la justification de la subvention
-- Le montant versé
-- Les modalités de versement
+- Les informations des deux parties,
+- L’objet précis (événement ou projet),
+- Le montant de la subvention,
+- La date de versement de la subvention,
+- Une description explicite et complète de la contrepartie pour la Junior. 
 
-> Des exemples des conventions de partenariat des années précédentes sont disponibles dans le Drive Partenariat > Partenaires Ecole/Associatifs > BDE Télécom Paris ou Forum Télécom Paris. S'en inspirer pour rédiger la nouvelle convention, en adaptant le contenu au contexte de la subvention envisagée.
+> Un template de convention est disponible sur Drive Trésorerie > Template GDocs > Template convention asso école. Il doit être utilisé comme base pour garantir que toutes les mentions légales et informations nécessaires sont bien présentes.
 
 La convention est signée par les **deux présidents** : celui de Telecom Etude et celui de l'association bénéficiaire.
 
@@ -75,7 +76,7 @@ Archiver la convention signée et la facture dans le Drive Partenariat > Partena
 
 - **Pas de versement sans vote CA explicite.** Une décision informelle (message, mail) ne suffit pas : il faut un vote acté dans un CR. 
 - **Pas de versement hors budget.** Si la subvention n'était pas prévue, elle doit d'abord faire l'objet d'une réactualisation budgétaire votée en CA avant tout versement.
-- **Vérifier le lien avec l'objet social.** La subvention doit être justifiable au regard de l'activité de Telecom Etude (promotion de la JE, événement commun...). Une subvention sans lien avec l'objet social expose Telecom Etude à un risque de requalification.
+- **Vérifier le lien avec l'objet social.** C'est une condition absolue, pas une formalité. La contrepartie doit être concrète et identifiable : visibilité de Telecom Etude (logo, mention, évènement, défi, communication sur les groupes WhatsApp) ou promotion des enseignements de l'école (évènement, étude de cas). Si la contrepartie ne peut pas être formulée clairement dans la convention, c'est un signal d'alerte. Une subvention sans lien démontrable avec l'objet social expose Telecom Etude à un risque de requalification fiscale.
 - **La facture de l'asso est obligatoire.** Ne pas verser sur simple demande ou convention seule : la facture est la pièce justificative comptable qui légitime le décaissement.
 - **Vérifier la mention TVA sur la facture.** Une facture sans TVA ni mention d'exonération est non conforme. La plupart des assos étudiantes ne sont pas assujetties à la TVA mais doivent le mentionner explicitement.
 - **La convention doit précéder le versement**, pas l'inverse. Ne pas payer avant que les deux présidents aient signé.
